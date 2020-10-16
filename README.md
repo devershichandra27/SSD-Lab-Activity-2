@@ -1,9 +1,9 @@
-#README This Assignment
+# README This Assignment
 
-###git clone URL 
+### git clone URL 
     to clone the url;
 
-###git add README.md
+### git add README.md
     to add it to staging area;
 
 
